@@ -1,11 +1,9 @@
 fileFormatVersion: 2
-guid: 3a22a10fef00a1f46a304eb2f60a670e
+guid: 8536901f162663a4e92711d58c782731
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences:
-  - myObstaclePrefab: {fileID: 4775942251330827765, guid: 342504d4bdd5e6d438e00989740f6be1,
-      type: 3}
+  defaultReferences: []
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
